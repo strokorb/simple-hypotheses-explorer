@@ -1,0 +1,480 @@
+%PDF-1.7
+%ĞÔÅØ
+17 0 obj
+<<
+/Type /Metadata /Subtype /XML
+/Length 13464     
+>>
+stream
+
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+    xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
+    xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+    xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+    xmlns:pdfxid="http://www.npes.org/pdfx/ns/id/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/"
+    xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+    xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+    xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+    xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+    xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+   <pdfaExtension:schemas>
+    <rdf:Bag>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>XMP Media Management Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>xmpMM</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://ns.adobe.com/xap/1.0/mm/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>OriginalDocumentID</pdfaProperty:name>
+         <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>The common identifier for all versions and renditions of a document.</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PDF/A Identification Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>pdfaid</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.aiim.org/pdfa/ns/id/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>year</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Year of standard</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>part</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Part of ISO 14289 standard</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>rev</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Revision of ISO 14289 standard</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PDF/X ID Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>pdfxid</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.npes.org/pdfx/ns/id/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>GTS_PDFXVersion</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>ID of PDF/X standard</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PRISM Basic Metadata</pdfaSchema:schema>
+      <pdfaSchema:prefix>prism</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://prismstandard.org/namespaces/basic/3.0/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>complianceProfile</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>PRISM specification compliance profile to which this document adheres</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>publicationName</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication name</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>aggregationType</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication type</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>bookEdition</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Edition of the book in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>volume</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication volume number</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>number</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication issue number within a volume</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>pageRange</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Page range for the document within the print version of its publication</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>issn</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>ISSN for the printed publication in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>eIssn</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>ISSN for the electronic publication in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>isbn</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>ISBN for the publication in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>doi</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Digital Object Identifier for the document</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>url</pdfaProperty:name>
+         <pdfaProperty:valueType>URL</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>URL at which the document can be found</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>byteCount</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Approximate file size in octets</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>pageCount</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Number of pages in the print version of the document</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>subtitle</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Document's subtitle</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+    </rdf:Bag>
+   </pdfaExtension:schemas>
+   <pdf:Producer>pdftex-1.40.25</pdf:Producer>
+   <pdf:PDFVersion>1.7</pdf:PDFVersion>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li xml:lang="en">Luigi Albert Maria (original)</rdf:li>
+     <rdf:li xml:lang="en">adapted under CC BY-SA 4.0</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="en">Type I and type II errors in hypothesis testing</rdf:li>
+     <rdf:li xml:lang="en">two-dimensional version (unlabelled)</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:type>
+    <rdf:Bag>
+     <rdf:li>Text</rdf:li>
+    </rdf:Bag>
+   </dc:type>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="en">Two-dimensional diagram of a statistical hypothesis test. A horizontal axis shows values t of the test statistic T</rdf:li>
+     <rdf:li xml:lang="en">and a vertical axis shows the density of T. Two bell-shaped normal density curves with the same spread are drawn: the density of T under the null hypothesis H0 in blue on the left</rdf:li>
+     <rdf:li xml:lang="en">and the density of T under the alternative hypothesis H1 in dark red on the right. A vertical line at the critical value c</rdf:li>
+     <rdf:li xml:lang="en">marked as a point on the t axis</rdf:li>
+     <rdf:li xml:lang="en">separates the acceptance region to the left</rdf:li>
+     <rdf:li xml:lang="en">shown as a green band below the axis</rdf:li>
+     <rdf:li xml:lang="en">from the critical region to the right</rdf:li>
+     <rdf:li xml:lang="en">shown as an orange band. The figure has no text labels. The shaded</rdf:li>
+     <rdf:li xml:lang="en">hatched blue tail of the H0 curve right of c represents alpha</rdf:li>
+     <rdf:li xml:lang="en">the probability of a type I error. The shaded</rdf:li>
+     <rdf:li xml:lang="en">cross-hatched magenta tail of the H1 curve left of c represents beta</rdf:li>
+     <rdf:li xml:lang="en">the probability of a type II error. Two-dimensional companion to a figure adapted from &quot;PPV</rdf:li>
+     <rdf:li xml:lang="en">NPV</rdf:li>
+     <rdf:li xml:lang="en">Sensitivity and Specificity&quot; by Luigi Albert Maria</rdf:li>
+     <rdf:li xml:lang="en">Wikimedia Commons</rdf:li>
+     <rdf:li xml:lang="en">licensed CC BY-SA 4.0.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:language>
+    <rdf:Bag>
+     <rdf:li>en</rdf:li>
+    </rdf:Bag>
+   </dc:language>
+   <dc:date>
+    <rdf:Seq>
+     <rdf:li>2026-10-29T22:59:57Z</rdf:li>
+    </rdf:Seq>
+   </dc:date>
+   <dc:format>application/pdf</dc:format>
+   <dc:source>Type_I_and_Type_II_errors_2D_unlabelled.tex</dc:source>
+   <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool>
+   <xmp:CreateDate>2026-10-29T22:59:57Z</xmp:CreateDate>
+   <xmp:ModifyDate>2026-10-29T22:59:57Z</xmp:ModifyDate>
+   <xmp:MetadataDate>2026-10-29T22:59:57Z</xmp:MetadataDate>
+   <xmpMM:DocumentID>uuid:a43a68c1-9e6b-40e7-8029-2fc117591adc</xmpMM:DocumentID>
+   <xmpMM:InstanceID>uuid:29267789-43c4-4db9-8d8d-a1201fb435bb</xmpMM:InstanceID>
+   <prism:complianceProfile>three</prism:complianceProfile>
+   <prism:pageCount>1</prism:pageCount>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+<?xpacket end="w"?>
+endstream
+endobj
+19 0 obj
+<<
+/Length 126       
+/Filter /FlateDecode
+>>
+stream
+xÚÓÏ/HLÎ,©4TH/æÒw,*ÉLKL.Qpòuærbı’ÔŠ}_gO;;'¨”[fziQ*\Ò&iTg  "uôL’s¹
+¹L3ˆ˜mfC$áZÀú¹†
+.ù\@ˆé
+#W`8 ‰¢27
+endstream
+endobj
+15 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/FormType 1
+/PTEX.FileName (./Type_I_and_Type_II_errors_2D_unlabelled_raw.pdf)
+/PTEX.PageNumber 1
+/PTEX.InfoDict 27 0 R
+/BBox [0 0 900 394]
+/Group 24 0 R
+/Resources <<
+/ExtGState <<
+/a0 <<
+/CA 1
+/ca 1
+>>
+/a1 <<
+/CA 0.35
+/ca 0.35
+>>
+/a2 <<
+/CA 0.4
+/ca 0.4
+>>
+/a3 <<
+/CA 0.85
+/ca 0.85
+>>
+/a4 <<
+/CA 0.8
+/ca 0.8
+>>
+>>/Pattern <<
+/p7 28 0 R
+/p8 29 0 R
+>>>>
+/Length 4854
+/Filter /FlateDecode
+>>
+stream
+xœíœÉ®%·†÷õõ9–¨y›M€ 2,ƒ,‚m#¶äõCş?)ÕõğÉa÷-Ş*I”8|”ÔÎwÒ~“õ?eÕûÓ·×÷W¾íŸ¾¾¿ø{º¿şñ²7Vâ?|yu¥WmsJ½ÓkÌT–Ü[‚¯²}µôƒÑïšÓkÕuKoW|2jÎúFz	?û¬%¾oß–º^©åÇ·öenC¿ÉÑJ«+yåcr{ï§Tµãû³
+äUô§’Êk6ûõÔ_ó÷íUÒº¯‚gˆúkŒ»dÑw‚ù’¬_åúú§IÖ«k‡%÷W+äüÊbïÌW‘yA$¯6´kQE:ÓT•dI~Ö^uÚ;åU;z×&¡´—Ë$“*Hu6³¨…è¸Š	´=S¢Èz‚WD^£ë KÆĞ?ßW“J-Š¼zÇ;JUÃhdP‰¢£¨®]@‡Ò£å‚e¹T4õY;e½„ji6™¥ê‚á¹R…š_}ñ›†Ù-Ug¹bºÊ µ`L2©DmÑ“¶j)µM‰ªCO‚†´hQç~©R30.—5P2$‹ó®@‰–l`lhR‹–cİõ—Ğ£éÒ6|¦¿ƒ­¼
+'Ñ~2=Z}åšÑşEôÏI³l]±¦u„*¢¿)˜ú¶T{–Û“©pÙã«W´Ñ…:45ƒ‰6zq¦öCIu–Ú†×»© õ³Úu@,UA¿êÙlP#QPÉ!¿a@ÇQ8~•¸KŒFTB¥Gç2è0‹KhC&™nícQy^hgÒ3MÒ¸Óœš÷ÙY\…†¹°†fs%tŠ©Åì®E{-øÍœ®EwGšî×* ë/së|A2ºZæÖ*á5«º4`“˜WCàV²º«0ÔñikºĞh-?Gôùî)ûğç«Rà.­ıÕ¬_Ğˆ{>å´“Lv¹ôœ|´:Ï‚ÌÁ.}ñ‚ÀW%+Ğsõ±ê(eB¢î[! ¯ö<8ÜaÁîş|©D½·Añ‰$N¶
+|(¶4™ 4"…ÃW	­µKÅ¨LÒ%î¹*éœPÀl4ó•iëk.Y/‰ã7ÉÀôwY¦Àˆ¨ßKqøT9øì‹Ü‹;ìÈ1³¯0û&XÙ<DĞíÁÀ³º‹à™–ÒkáØ³ELcŸİGzí>x]'UCÆc–êŠ±#ÜvS£qhôÅ®Ë¼	ŒD£æŞºk Š±3 õÖcìa¬kXñÑw*lQ…£gTïêê¶”&0.slu`dğÏÅ¡™5›¨ÇTš…šsŒÕ×Ï,±» £µ9÷ÑNÄjPŒÖ-tÔ,³x×pdÓE	[é1Õ«~uG1şI“Ôpä
+¸`f$9H¨´F#W€Á½O„.*é¯4í‡`l2m×Xd	¦n¥P`¨¸òVÀmVC‘+‚ºÇï~¹Æ®I.Märˆ6FÊgx.)g|°±aÈ$²%ÚĞÈéôfŠ<N; oõ£­&$×0È‚û|Ï–ü§o~Âv_]ßß_üñïÿş÷—?|wúñşâ_ãşñÓw­o|ƒàß øÁû‚o|ƒàÿgAğO—ºSÊ6Äd{‚}ªïsS°îÍH{U"x¢!QeØAô)‹€‰çqHlºEƒFÍGQ¦apŠ)es¯§Dg»Ë™Èëı9µReû3×HÔå÷,¹DÃ«<VÔå³®"é±Œf0Òb¶¶@˜Í¶‘I{Ø|ZÔË£k´ªx1=”ĞšEÜ'†ö.
+nƒÑv$ŒëáI¢™9,Î&ÆÃ®ÏËŠº¹añu]ÑN$¥ŒÃŒ2v¼d<õêî§¦%Í­]¦Q¦Hn†Ìqš’Ğâ‰n2¦N%_:’ˆ¨×v7$¦zQ·-Z @ ØŞŞáZmb¦ra¥Ö‰M…“¬~›½«‚éZ‚\È.VÚÈ3YÕ“Ü sâ;uò\§dámäBte•.äå	/)ô$œjµ¨ÖÒ®ğ³şòW_‹:ÿ`ÖÕÚá‚DÓCå7Ëg…Oî‡	Š–)s854¾á¨nda6{¡î!	-«Ë>£î?[Zàx­ğ±º ³ÇÏ(|tj÷ÍïÀqñ#Íñ(£zĞ²U9€¥éùÌjûÆéÓ¿€§V{AËjFE¶c,±
+ÆÊ'Ğ^ 1Ü¨À‡§Iü4l>4Z±‚¸hœ	‡±BDQ˜neˆ€
+2Gg9|‘péAVN8Ü·è©6GTBÂ&AüÍn6s³KÓaiş¦
+úƒı)‚†¸¦/²0ş.â~4bÑŸUƒ;P˜*.¸%nğhr¼)êÑlmy•\4u#²±$bCHĞœ5ª1²y¥’‰âÅê)²¢y¡M% }ÍÔæ¥6oÒùJ«ÔèˆE35+(š	C[“X˜åôf+DŞ*êáŠÁ¶†ŒE3³)c§«©5AC‘Z¸vË‹«d¶Ê¢˜ù@ƒŠ<m¯TŸôš
+#›™Ö»&®³Ö¶î—‰¸¡¡™(¾š»`'‡Úù˜KM©fds	úîUsë›ß0(T­lğæ[ŞÌ`¬3ïËx	/Ë—¥
+ØŞÜz¸Û©¯X8( {4£u bX	Ñ‹84®ªŸÁæJf*«²XhŸæm*)ÔØC•	„á0§ÂªÊ fr¯M—mM˜)i¤Dè­:)Ø4;&à¼Y¼e0Ô%E0ÔÌP\«ù……úÅM›ªkfÀîßts~QËàPë‡½9SWÁPã½Í”lÿ–‰h µ¤*&¤Ú¸8–à|‘ÔÜ5ÊÜ«ú"¡¥Nï¨±ü”®kG¡`Izbpæ÷Ói[‘ßjD–ı;²jh²l*ØmÀà,pª	f ªƒä%êN¾ØÃdôK%ÉTt‚*"jôO±­Î¯±»v^¢"­ƒA[Ô`Ù÷U'wkÄÌ“³£!À£H¬Šíè÷"1>uwob©
+LÔÖ:YjëÌ U3¼Ù²äØé¨‹H'iyd©«â'I-ì^S¼Î¿6”„´ª%èœgKì0³E Ë+bwğo6„àÎÇ!b›ğoòş|›t>·IßhüFã7¿Ñø~£ñßhüFã7¿Ñøÿmã8'»»zk6µ]ãÚì6«İ3í÷Ÿ”¬ËuÿçJ÷ïõß^ı›½}ÿãª÷îïol:û?}Ëæ3XàÛ{'‡ˆr«ÓıƒlnÕ = Fg`¨‘"æ* Š¿D`¡‚9ËÆrn c,‚tÕÁÛõ@‘,~>nìQ ¨ŞKò“Æ,Îg.D&?ıÃÀìôŞ_â™T6·'.À%rM~nxkñL:i=W®<4¥§eÿìfxÍvn.LâÈ«¹!XN÷O(=ƒÚ³:ØÎ×ƒ’ÎÓäŠº.Ä~}ğ>2±ÜD½$zÙœçğ–ó$…[BõÅ›Íå³ú@Æ˜ZÃÑ[¶„‡—‹ó~¶ †”èj¬8èO~J(j¹è ÎØ’*/9“íXw0•Á7ÅN^„÷)óEÃv”ÑşÔ®}²4d;Øg» ‚	ËæêîNçêçèÄşd›ú;ô"‚“NzY„UTñ$j‡ğmõQva—i¼¢ÓÈßİ­vãlY2ğRIŞb?EŒPtá3×V4üğÜ…˜}£!Ë‹jÅÉMVa™&¨
+%ƒ½²
+36×gV£xÂt	omÜ,–Ğ‹­JòÊHŸ¢æty›¯®&}Ş¦Mc#‹"óz±cmCY(…ğØ™:¬¸A9ydËš;™=i^0¯?}Ş&hw™š™¤û&Òµv’‡çh«O¬“<
+	ØDú¨sâåŠĞåÍ›hpFèD]snH¢½4‡—Rç+["rü§Çç—›”˜)œ+=>—âdeæŒ^hƒ¬Ìç³™ ğza–Â…2?B/—”Yö$ÁÁ˜Î1©NŸÏ:sÕlÈFÕ:=Şâ+Ì:ÊnôåLİğHã)cR•\Bù™w'(ŒŸÙâ>]yxq^VÚŠ$Ç`}ğ»YeÑã³Á	jJ{®R!R$sù\d£k§vWkx×^’ìĞYô©±X¬¹û\µä9?/_÷æ‰WÌásÕïŒå}¦Êtë²+QÈŠ’£œcF¨2æÊtN Õ\>¯Î a<HgLÅs ĞE5r°0
+²[(+ØŞ(AÍ=Øˆ`pù²É®óÆ’¹´3P—¼¤Hclğ•$VÌÇè;°³Áå÷î€qzÑ7YGÕéN?wíW[}`‹‰Şh—²šÉ½²Ëœ^'¯–²GûÔâŞcİ‘˜ùµ¥‰P 
+ÀuEDîéndw#Ø«‘ñ#²¼-9/b‰gy³A2—”Rü
+šÕå¥EŸ%yÀ/ÓË•V<Í×ÄØ
+‹½Âh¥«ëúZ\¬ä+ª"ŞÌã_òË_ÕÓ|‹»­ÉÎÂq½iŞŠYÜpkÓ'¬Å”¶~Ò¼_<ëñ7ût”H1¬‘7KŒÉ	HõV÷³Éá©Ş¶
+`Çv—-€Å¯†a¯£ù¿9|¾zäş¶ÒÆ"¿÷·ê5|ÓírY±§²o“|eŞİI…aµ§¾!İô´ãñvLg< »ñåôón7¼%ıŠAÓ/.IÛ¼êW·æÁÕ·°xEÌ/Á”º©8î]Å¼•}£W¡ªO˜­/èÔñ@oŞdJÎŞ¤Ü}
+ZÇ'­ïN:‹ÉŞÓcÔ®1ßsŠíÖRô×–‚ğã’ø„Å¶®İ@ŠnüÒ”İnÜj»]¿)4½Ùshï\ïK?Ñl\úy>Ùíè$n÷T^R~^ïÑŸs:İøİÇƒ¤Ó$Qg”ş83%¶R?ŞéùËm¥X-ŠÅŠ«Ÿı¤µØ/WZ<»pïñ³‹ú<¥º}œ[”ÇYöúxhñÔxÃìC2O“q@¼«íLƒŸNÌ³|ÄÈ–÷úİ‡f?*ÄÀüXÁùõyBplš'#}06Ç¤ı‚iğë±Yã×ç®ş±i– ØíÀ×¸FH:=Ukğê±iúŸøÕ=ß[NÇÂ}ë.÷]×4?D XÆ‰ûì$%Ïëi`›ç§bå2_w4s~p‡q•¨X#&¿˜üz®è¿À|½±9øõDï Øá`wp~õ(Z#‹`O	‚õTt„İéêÂF6€=¹. öäC"ìÎ˜°÷urj ìÉ»Æ°'/Äzâ¾Åzr?»Ó@ìÆƒ`ØCÆ°16Ä	Š=œBŒ=$ë°sŒu 
+ŒİÀ{x*0v#)v3Ù¡ØCmA±ìb÷ÄïÅ{ø2(öhPìƒRcæ:Å&ÅVŠõ¿ò X÷†ØCä±‡ØƒbÕƒb7÷oŠ=•A`ì.ŒbOmëÅÇ}0Ö”ƒ±§†	ŒİENPì.ƒbw•´öTQÁ°§Ò"ÄZ,(ÖËµûP,+º€Ø]ğÃîr0öTŒDØ]Sn„š3 öT¥°§j„õ²ö>ËÊ÷ì©ƒ`wñ »Ëkã×S~o€=õy ì.áÉ¯§Æ~Í{+*øÕ·
+‚_Ï^BğëÙk~=ûä×½c±ùõìi¿}Ø³/ ë'÷!Xî­‚=»/A°{{& öìà˜kŸ-M°g(vo`÷6Rğ«o4İ`}3* voV¿½¬à×³ßE~İ;b_ÏYğëÙWëºÂgß-h–ûr÷YßºÃ°€³gw/pöìÿmœİ{„ÀÙ½‰è8{MFÇÙ³é0Û”›eÃÙFöTÏ­Nà«áí6ÀÍ·±U:ÄSıŞMÒ?l¸‰İé½';J®¾mFŞ»º›‘¹ík’e+¶†1®Ú>ìÛÓ±¿<ZÔ­Ü-6§G;Y¾0Ûi>v·G¯ö¿G›%˜ÆÇˆšÕ÷Ç®1êÙdclbñ&g”¬±O?fù°•?fìNÇf¿z±wçÃ®®ìó‚±ú¡/(·¢`3EÅJ®œ~ÂtÎ-fš›ñHÓ/Køgê}:2ó)ZAS¢f¥=N©‡V‹¦Œ«~Ê0K~œäÌr Ÿ+?Ë|ª?k>CŞ¬å”“ô”YáÓYheo(¶PDiU¥YúşÏõ³Ú*NÍjzşõÙÂšà¡ØÏ¾Ó«²Ù¢";şğ5Å}Ø#Ê?¾jË÷Íu~ÿÕå¯÷bg½õ§}¨é¨¿„KÍÂ—¾¹â7_ùÿçFÛÎ¿6Í¯âpâIÁOíÛşÆpÅ¥%s÷Çÿ¶FŸ>`ªípU#}~|/û“Zäûcûk‚§i{ºôõİ³ÿº}øø9êOø«2O-~«“ô§ë¿ôáU¡
+endstream
+endobj
+28 0 obj
+<<
+/Length 30 0 R
+/PatternType 1
+/BBox [ 0 0 7 6]
+/XStep 7
+/YStep 6
+/TilingType 1
+/PaintType 1
+/Matrix [ 0.707107 -0.707107 -0.824958 -0.824958 0 422]
+/Resources <<
+/XObject <<
+/x10 31 0 R
+>>
+>>
+>>
+stream
+ /x10 Do 
+
+endstream
+endobj
+29 0 obj
+<<
+/Length 32 0 R
+/PatternType 1
+/BBox [ 0 0 7 6]
+/XStep 7
+/YStep 6
+/TilingType 1
+/PaintType 1
+/Matrix [ 0.707107 0.707107 0.824958 -0.824958 0 422]
+/Resources <<
+/XObject <<
+/x12 33 0 R
+>>
+>>
+>>
+stream
+ /x12 Do 
+
+endstream
+endobj
+31 0 obj
+<<
+/Length 34 0 R
+/Filter /FlateDecode
+/Type /XObject
+/Subtype /Form
+/BBox [ 0 0 7 6]
+/Group <<
+/Type /Group
+/S /Transparency
+/I true
+/CS /DeviceRGB
+>>
+/Resources 35 0 R
+>>
+stream
+xœ+äÒO/6PH/æ2T Á wıD_ÏD¡œË@Áˆ³¸¢côR¸L|
+
+@PÏÂÔÜĞÄÌIÎåQ¹@l®£¬ÈÈ Ùä¹
+endstream
+endobj
+33 0 obj
+<<
+/Length 36 0 R
+/Filter /FlateDecode
+/Type /XObject
+/Subtype /Form
+/BBox [ 0 0 7 6]
+/Group <<
+/Type /Group
+/S /Transparency
+/I true
+/CS /DeviceRGB
+>>
+/Resources 37 0 R
+>>
+stream
+xœ+äÒO/6PH/æ2T Á wıD_ÏD¡œË@Áˆ³¸¢côR¸L|
+
+@PÏÂÔÜĞÄÌIÎåQ¹@l®£¬ÈÈ Ùä¹
+endstream
+endobj
+46 0 obj
+<<
+/Producer (pdftex-1.40.25)/Creator <FEFF004C006100540065005800200077006900740068002000680079007000650072007200650066>/Title <FEFF00540079007000650020004900200061006E0064002000740079007000650020004900490020006500720072006F0072007300200069006E0020006800790070006F007400680065007300690073002000740065007300740069006E0067002C002000740077006F002D00640069006D0065006E00730069006F006E0061006C002000760065007200730069006F006E002000280075006E006C006100620065006C006C006500640029>/Author <FEFF004C007500690067006900200041006C00620065007200740020004D006100720069006100200028006F0072006900670069006E0061006C0029002C0020006100640061007000740065006400200075006E006400650072002000430043002000420059002D0053004100200034002E0030>/Subject <FEFF00540077006F002D00640069006D0065006E00730069006F006E0061006C0020006400690061006700720061006D0020006F00660020006100200073007400610074006900730074006900630061006C0020006800790070006F00740068006500730069007300200074006500730074002E0020004100200068006F00720069007A006F006E00740061006C00200061007800690073002000730068006F00770073002000760061006C007500650073002000740020006F0066002000740068006500200074006500730074002000730074006100740069007300740069006300200054002C00200061006E00640020006100200076006500720074006900630061006C00200061007800690073002000730068006F007700730020007400680065002000640065006E00730069007400790020006F006600200054002E002000540077006F002000620065006C006C002D0073006800610070006500640020006E006F0072006D0061006C002000640065006E00730069007400790020006300750072007600650073002000770069007400680020007400680065002000730061006D00650020007300700072006500610064002000610072006500200064007200610077006E003A0020007400680065002000640065006E00730069007400790020006F00660020005400200075006E00640065007200200074006800650020006E0075006C006C0020006800790070006F00740068006500730069007300200048003000200069006E00200062006C007500650020006F006E00200074006800650020006C006500660074002C00200061006E00640020007400680065002000640065006E00730069007400790020006F00660020005400200075006E006400650072002000740068006500200061006C007400650072006E006100740069007600650020006800790070006F00740068006500730069007300200048003100200069006E0020006400610072006B00200072006500640020006F006E0020007400680065002000720069006700680074002E0020004100200076006500720074006900630061006C0020006C0069006E0065002000610074002000740068006500200063007200690074006900630061006C002000760061006C0075006500200063002C0020006D00610072006B006500640020006100730020006100200070006F0069006E00740020006F006E00200074006800650020007400200061007800690073002C0020007300650070006100720061007400650073002000740068006500200061006300630065007000740061006E0063006500200072006500670069006F006E00200074006F00200074006800650020006C006500660074002C002000730068006F0077006E0020006100730020006100200067007200650065006E002000620061006E0064002000620065006C006F0077002000740068006500200061007800690073002C002000660072006F006D002000740068006500200063007200690074006900630061006C00200072006500670069006F006E00200074006F0020007400680065002000720069006700680074002C002000730068006F0077006E00200061007300200061006E0020006F00720061006E00670065002000620061006E0064002E0020005400680065002000660069006700750072006500200068006100730020006E006F002000740065007800740020006C006100620065006C0073002E00200054006800650020007300680061006400650064002C0020006800610074006300680065006400200062006C007500650020007400610069006C0020006F006600200074006800650020004800300020006300750072007600650020007200690067006800740020006F00660020006300200072006500700072006500730065006E0074007300200061006C007000680061002C0020007400680065002000700072006F0062006100620069006C0069007400790020006F00660020006100200074007900700065002000490020006500720072006F0072002E00200054006800650020007300680061006400650064002C002000630072006F00730073002D00680061007400630068006500640020006D006100670065006E007400610020007400610069006C0020006F006600200074006800650020004800310020006300750072007600650020006C0065006600740020006F00660020006300200072006500700072006500730065006E0074007300200062006500740061002C0020007400680065002000700072006F0062006100620069006C0069007400790020006F006600200061002000740079007000650020004900490020006500720072006F0072002E002000540077006F002D00640069006D0065006E00730069006F006E0061006C00200063006F006D00700061006E0069006F006E00200074006F00200061002000660069006700750072006500200061006400610070007400650064002000660072006F006D00200022005000500056002C0020004E00500056002C002000530065006E0073006900740069007600690074007900200061006E006400200053007000650063006900660069006300690074007900220020006200790020004C007500690067006900200041006C00620065007200740020004D0061007200690061002C002000570069006B0069006D006500640069006100200043006F006D006D006F006E0073002C0020006C006900630065006E007300650064002000430043002000420059002D0053004100200034002E0030002E>/CreationDate (D:20261029225957Z)/ModDate (D:20261029225957Z)
+/Trapped /False
+/PTEX.Fullbanner (This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) kpathsea version 6.3.5)
+>>
+endobj
+25 0 obj
+<<
+/Type /ObjStm
+/N 33
+/First 236
+/Length 2078      
+/Filter /FlateDecode
+>>
+stream
+xÚÅYKsã6¾ëWàhl‚b*¥*[Yoì¯íİJâè@I°†1%*$•Œóë· H–4¶'•T™&Ğìn4¾~ "âÊ9áĞbÂaœ.à%à.	Ç´àa‚üîñ£$ ÆH áÅI	BDÒˆP" r@B`æ	…O$	eD 1 ”J"Áz!‰$'‚ 5>¼CPB	•‚
+ôĞ‡ĞaŠúÁN*	BI"ƒI"%(	)`£ 2”ğ=½ï¿ïy÷Ï[E¼›x¥zŞ(Û”jS P¸íy·ªÈvùBh¾¦\«e_d_Èƒ„ÈÇIˆ¨‰çñîà¯Ìw‹ò&Îµ"Ÿô<ÓFc´†y¶Û"bØµ7y¶Ü-TNNq’g„ÑÁ™O~9ù\–Ûâ;ÏÓäUo?'‹â,ËW¿ôû`o®â2É6ã¸Tädüó™¤>‹¢@şÜGõÔÇ¿ĞãL¾”îJäÆŞªğõûâšx³|§=ïî:.°»A<Î	íÁØğ4y±aªj:¾á‹ùû;Æh<¦aì!â÷y¼)¶òâ¹ç]p ê…/cõ{²P·.¬è˜<hÏïÇŸ~&§mœ$#›]šÎëúG^êĞş? î~k#C5SÏûñÓüWµ(aÊÄ»\Cú!±¸S%y€àOÉÌLxÙ6^$å3šp8$¤ú~çOj©A¨iã¤Ø¦ñó8[Ü'eªÚ?îÖFófN¥y™Ş¬7³œWÉ:˜~8¹Ÿù´Oô[ögŞÇx­z…î²>&mİå}Ìİº+ú˜Âu7èÛQ+ÕÖ–Ú„’%$ô 5ñ</“Ç`Ä2ùsÎ»5äİ4WøÖlğ¯H–
+ÁŞ¿Bx$<ƒêUo˜n¸¼âM'FÄü¿ÛÍáß6Şo²¶-9Û¬l¯¬E!4Kİ(ÀÕ­¨:»yÓg¦ï’¸ŒuÎCWh—/M
+Ğ|E¼¤TëäO¥ÛjóÎ1Ê°·TÅ"O¶F)ôÛé	\¤Ùâé?¦¤Ø0¸äßU>òZ›€ü¥i¥ñ\¥Ğ§¦?Ï–ÏĞ½Ğ¯Ç,+7V¶¿†À¬d,ÉÕSª/åén“ T0$è±ËÏ*ËÕú4MzÌo‘-Ušl”Eû1Íâ²1YírUXŞ2§uÏÆÌ¯»‚æ³è“w?g»Ò»‡ÏÓdµñşm¾BZvR\“Á¸kbÍ4™ëı`Ú»›G•4Ñ[+±¢ìı¢ü+¢.Ü6aÑxÑV#^¡FkàVÃ jX¯G@¸Y]-¡:}@´Jécll8œoÔx©¶'øŠ=Sízm‘°	+§wŞŠ‚‹ju?õÏ|?ğ\äa`z©×)”ìéd:áû!p„¾ïËÀ÷¼EdŞ°ûr0ığ oÍ4ØéGN«6¯¾EF—n=S£iZ^+§¿Utİ®ôHf#Ç®Ğèbcc¯æYä·z‘GËãÜ¬¼tlïğáw†öVzPFË²J÷¨z‚
+'Ä¢’¾Ñ®šŸšùj\©‘gvR6¾Òs±8Ñ¯v¼3Æ7øÂÎSĞF—õ»–;oæemªÇEûıÜÑ:tÙÈj?m›ºX¸sØk÷+q²>d£ıùPcîÆÏ!œß2ßıR¼Œ›‹İ¹â@üù/cc²¶6y]Ïoâøs¼'6ÙÄ¯4&²ã³°áÇ±÷úŒ7±îÒĞÆĞÎƒ¶}aéÖ>›/z<°“ŸÿEøúN=ï÷êT¼£÷åœ :÷÷ÔPÖÎ‡ÚÎÉ;l’UŒ×ø¿›ÓŸ­uNJ‡ÿ­¸Ñ=¸	'V.*»X'îàhkÖcmÏ:øªz0rÖ2ğ¸SWèÜW'­líïq{ş­ySg½¶s±xDMÿ*Fâ@Í9¹Tº©“§âem/¼z*ùz]™4ô–OÃ—ë¹–™¾-Oºµº§=˜ÕkuĞäN³İ5Ä­É•îCsß‡¥¶³ÚoÙ}Á»bçxíÍ‡7bVÓ§Î§ÚãÕsèbç¬q­¹ÊÆ»ş¸õ£5ö¤3¯À`\Çï½–=0¶»–ÖuÓ­µ'Îy#ÛŠ…NîÖñ9µãÈ^§µ^ìYƒú¬»Ÿäí¸p×]›¿¶´|9ªòºš«»Goaå;qËœ£¦6ZgêÚtì·Ëß"ïöwôğj¾ãWøsÜìİ]¼\ûßì[zÜ·/ê×_áWû]üs>}­_¿é÷oêhèîÔÃºæ«;ÔÙw8µ¦“=5œ1üñ^=²Á\L^Ò¾VïŸº¸wÖ €;{‹tÖ	W51aõ	[³¢fı°û!íwÖŞéoî>$jÇU`× ‹ÿœßÃZ‡ã/ıLXwŸÕÅÈÁõ»oDÜ#?ˆ‹İÓñjÍÑµu2lNtäşû\©Û,+õ¡”o¥Š7DºkîU4É)y·Yª®ã-	Mw”ÆE}Áì±zûÆ§À+Ÿİ¦Äs²¬†föºÀk³Åé]çe/µôùôÄÏh¯¼´Ds8î0[®ZáXÀ#¸{÷cÌÅeœf«±«¾,2Q]>ÅùÓåæ1Ãû3<Âú_¢şPùM®Ş~ '7g[WñfENÔ¦¯Õ]gxäıßB}Ú•xhZxŸ¶jsnNšíeÆ4)gšû
+e<Ã›wŞx8œ‡Şµ*ã%XJ¨†¸ë«ÀÎëÿy1e‚
+endstream
+endobj
+47 0 obj
+<<
+/Type /XRef
+/Index [0 48]
+/Size 48
+/W [1 2 1]
+/Root 45 0 R
+/Info 46 0 R
+/ID [<E0C189D6B347FD55262D25A854740655> <E0C189D6B347FD55262D25A854740655>]
+/Length 123       
+/Filter /FlateDecode
+>>
+stream
+xÚÈÉÁ Eá÷’ Æ˜‰¹‰,5`*ÂÒF	*°Ñ‹&,´Äıß¹ç=)ù%*{Rú“2ä±W`,)¶0Ås”X¸úÆ¿´Šh×•¢M´ĞF¹¯ûø×°Oùøˆøt¦>¿¢j¨£}1Âl±óå-ß>ú3–ú
+endstream
+endobj
+startxref
+27338
+%%EOF
